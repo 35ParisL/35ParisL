@@ -4,7 +4,7 @@
 
 
 - <b>Microsoft Azure</b>
-  - [How to create a virtual machine](https://github.com/35ParisL/configure-ad)
+  - [How to create a virtual machine](https://github.com/35ParisL/Creating-a-Virtual-Machine.git))
 
 <h2>🤳Connect with me:</h2>
 
